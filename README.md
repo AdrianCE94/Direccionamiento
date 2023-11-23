@@ -7,13 +7,13 @@
 
 ### Generar un archivo llamado informe.txt con la siguiente informacion :
   
-    *Fecha: (con formato %d-%m-%Y)
+  *Fecha: (con formato %d-%m-%Y)
   
-    *Espacio en disco (usaremos "df -h")
+  *Espacio en disco (usaremos "df -h")
   
-    *La memoria libre del sistema ("free -h")
+  *La memoria libre del sistema ("free -h")
   
-    *Usuarios conectados ("who")
+  *Usuarios conectados ("who")
 
 **Usaremos un direccionamiento externo para evitar direccionar por cada linea de comando de nuestro script**
 
