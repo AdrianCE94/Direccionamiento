@@ -41,7 +41,7 @@ who
 ```
 * Una vez creado el script, comprobamos con el comando ls que se encuentra en nuestro directorio /home/1asir
   ![img1](img1.png)
-* Ahora vamos a usar el direccionamiento externo para que nos mande la informacion de lo que hace el script a un archivo, el archivo informe.txt. Para ello usaremos el signo matemático > o >> segun queramos machacar el archivo o ir añadiendo información.Ejecutaremos el script con el comando sh + nombreScript y direccionamos, quedaría así:
+* Ahora vamos a usar el direccionamiento externo para que nos mande la informacion de lo que hace el script a un archivo, el archivo informe.txt. Para ello usaremos el signo matemático > o >> segun queramos machacar el archivo o ir añadiendo información. Ejecutaremos el script con el comando sh + "nombreScript" y direccionamos, quedaría así:
 
   ```  sh info.sh >> informe.txt
    ```
