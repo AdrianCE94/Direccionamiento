@@ -1,9 +1,7 @@
 # Direccionamiento
 >Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 
-![ubuntulogo]([[https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31472-todo-ubuntu-que-es-que-podemos-esperar-este.jpg?tf=3840x](https://variwiki.com/images/1/1d/Ubuntu-logo.jpg)](https://www.cleanpng.com/png-ubuntu-linux-logo-installation-computer-software-l-1268160/preview.html))
-
-
+![ubuntulogo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg)
 >Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 
 
