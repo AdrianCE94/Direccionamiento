@@ -46,4 +46,5 @@ who
   ```
   sh info.sh >> informe.txt
   ```
+  ![img2](img2.png)
 
