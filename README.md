@@ -1,8 +1,7 @@
-# Direccionamiento
+# Direccionamiento      ![ubuntulogo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg)
+
 >Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 
-![ubuntulogo](https://upload.wikimedia.org/wikipedia/commons/b/b5/Former_Ubuntu_logo.svg)
->Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 
 
 # Generar un archivo llamado informe.txt con la siguiente informacion :
