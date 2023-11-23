@@ -19,12 +19,19 @@
     ```
     nano info.sh
     ```
-
-
-
-
-
-``` 
-
+*vamos a usar el enunaciado y sus comandos para elaborar nuestro script
+```
+#!/bin/bash
+#para fecha
+echo "Fecha: $(date +%d-%m-%Y)"
+#espacio en disco
+echo "El espacio en disco es:"
+df -h
+#memoria libre del sistema
+echo "La memoria libre del sistema es: "
+free -h
+#usuarios conectados
+echo "Los usuarios conectados son: "
+who
 ```
 
