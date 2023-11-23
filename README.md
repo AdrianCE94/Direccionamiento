@@ -1,10 +1,12 @@
 # Direccionamiento
 >Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 
-![ubuntulogo]([https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31472-todo-ubuntu-que-es-que-podemos-esperar-este.jpg?tf=3840x](https://variwiki.com/images/1/1d/Ubuntu-logo.jpg))
+![ubuntulogo]([[https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2014/02/31472-todo-ubuntu-que-es-que-podemos-esperar-este.jpg?tf=3840x](https://variwiki.com/images/1/1d/Ubuntu-logo.jpg)](https://www.cleanpng.com/png-ubuntu-linux-logo-installation-computer-software-l-1268160/preview.html))
 
 
 >Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
+
+
 # Generar un archivo llamado informe.txt con la siguiente informacion :
   
   1.Fecha: (con formato %d-%m-%Y)
