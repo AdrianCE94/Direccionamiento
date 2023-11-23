@@ -40,5 +40,5 @@ who
 
 ```
 * Una vez creado el script, comprobamos con el comando ls que se encuentra en nuestro directorio /home/1asir
-  ![img1](img1)
+  ![img1](img1.png)
 
