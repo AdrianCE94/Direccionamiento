@@ -1,11 +1,11 @@
 # Direccionamiento
-Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu)
-## Generar un archivo llamado informe.txt que contenga la siguiente informacion :
-fecha: (con formato %d-%m-%Y)
-espacio en disco (df -h)
-la memoria libre del sistema (free -h)
-usuarios conectados: who
-
+>Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu)
+# Generar un archivo llamado informe.txt 
+## Con siguiente informacion :
+ 1.Fecha: (con formato %d-%m-%Y)
+ 2.Espacio en disco (df -h)
+ 3.La memoria libre del sistema (free -h)
+ 4.Usuarios conectados: who
 
 
 ``` 
