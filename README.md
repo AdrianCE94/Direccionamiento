@@ -20,7 +20,7 @@
 
     ```
     nano info.sh
-      ```
+    ```
     
 * Vamos a usar el enunciado y sus comandos para elaborar nuestro script
 ```sh
