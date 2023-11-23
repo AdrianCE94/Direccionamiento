@@ -48,3 +48,9 @@ who
   ```
   ![img2](img2.png)
 
+* Finalmente, para ver que contiene nuestra archivo y que nos ha ejecutado bien las lineas del script, utilizamos la sentencia cat + "nombre del archivo" para que nos lo muestre
+  ```
+  cat informe.txt
+  ```
+  ![img3](img3.png)
+
