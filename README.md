@@ -16,7 +16,9 @@
 
 * Primero creamos nuestro archivo sctript llamado "info.sh"
 
-    ``nano info.sh``
+    ```
+    nano info.sh
+    ```
 
 
 
