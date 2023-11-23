@@ -15,6 +15,8 @@
   
     4.Usuarios conectados ("who")
 
+    *Usaremos un direccionamiento externo para evitar direccionar por cada linea de comando de nuestro script*
+
 
 ``` 
 
