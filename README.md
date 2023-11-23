@@ -4,7 +4,7 @@
 
 
 
-# Generar un archivo llamado informe.txt con la siguiente informacion :
+## Generar un archivo llamado informe.txt con la siguiente informacion :
   
   1.Fecha: (con formato %d-%m-%Y)
   
