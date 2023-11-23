@@ -15,7 +15,8 @@
 **Usaremos un direccionamiento externo para evitar direccionar por cada línea de comando de nuestro script**
 
 * Primero creamos nuestro archivo sctript llamado "info.sh"
-  ``nano info.sh``
+
+    ``nano info.sh``
 
 
 
