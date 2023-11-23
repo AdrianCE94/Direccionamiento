@@ -1,5 +1,5 @@
 # Direccionamiento
->Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu)
+>Este es un repositorio para comprobar como funciona el direccionamiento en Linux (Ubuntu) :computer:
 # Generar un archivo llamado informe.txt 
 ## Con siguiente informacion :
  1.Fecha: (con formato %d-%m-%Y)
