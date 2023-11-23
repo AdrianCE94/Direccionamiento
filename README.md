@@ -12,14 +12,15 @@
     3.La memoria libre del sistema (usaremos "free -h")
     4.Usuarios conectados (usaremos "who")
 
-**Usaremos un direccionamiento externo para evitar direccionar por cada línea de comando de nuestro script**
+**NOTA:Usaremos un direccionamiento externo para evitar direccionar por cada línea de comando de nuestro script**
 
 * Primero creamos nuestro archivo sctript llamado "info.sh"
+
     ```
     nano info.sh
-    ```
+      ```
+    
 * Vamos a usar el enunciado y sus comandos para elaborar nuestro script
-
 ```sh
 
 #!/bin/bash
