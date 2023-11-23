@@ -8,7 +8,7 @@
   
   3.La memoria libre del sistema (free -h)
   
-  4.Usuarios conectados "usaremos el comando who"
+  4.Usuarios conectados ( who")
 
 
 ``` 
