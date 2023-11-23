@@ -12,7 +12,9 @@
     3.La memoria libre del sistema (usaremos "free -h")
     4.Usuarios conectados (usaremos "who")
 
+
 **NOTA:Usaremos un direccionamiento externo para evitar direccionar por cada línea de comando de nuestro script**
+
 
 * Primero creamos nuestro archivo sctript llamado "info.sh"
 
