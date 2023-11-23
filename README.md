@@ -7,10 +7,10 @@
 
 ### *Generar un archivo llamado informe.txt con la siguiente información* :
   
-  * Fecha: (con formato %d-%m-%Y)
-  * Espacio en disco (usaremos "df -h")
-  * La memoria libre del sistema (usaremos "free -h")
-  * Usuarios conectados (usaremos "who")
+  * Fecha(con formato %d-%m-%Y)
+  * Espacio en disco(usaremos "df -h")
+  * La memoria libre del sistema(usaremos "free -h")
+  * Usuarios conectados(usaremos "who")
 
 
 **NOTA:Usaremos un direccionamiento externo para evitar direccionar por cada línea de comando de nuestro script**
@@ -39,4 +39,6 @@ echo "Los usuarios conectados son: "
 who
 
 ```
+* Una vez creado el script, comprobamos con el comando ls que se encuentra en nuestro directorio /home/1asir
+  ![img1](img1)
 
