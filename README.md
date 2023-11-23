@@ -18,8 +18,10 @@
     ```
     nano info.sh
     ```
--Vamos a usar el enunciado y sus comandos para elaborar nuestro script
-```
+*Vamos a usar el enunciado y sus comandos para elaborar nuestro script
+
+```sh
+
 #!/bin/bash
 #para fecha
 echo "Fecha: $(date +%d-%m-%Y)"
@@ -32,5 +34,6 @@ free -h
 #usuarios conectados
 echo "Los usuarios conectados son: "
 who
+
 ```
 
